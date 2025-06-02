@@ -39,7 +39,7 @@ Using real YouTube data, this project walks through:
 
 ## ▶️ Watch the Video
 
-📺 **[Analyzed My YouTube Channel with Python](https://www.youtube.com/@TheRestisAI)**  
+📺 **[Analyzed YouTube Data with Python](https://www.youtube.com/@TheRestisAI)**  
 Watch how the entire project was built and explained step-by-step.
 
 ---
